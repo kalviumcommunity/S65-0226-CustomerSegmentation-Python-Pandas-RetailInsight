@@ -64,6 +64,6 @@ Customers were grouped into 3 clusters:
 ![Cluster Graph](graph_output.png)
 
 ## 📉 Elbow Method
-![Elbow Graph](elbow_method_graph.png)
+![Elbow Graph](elbow_methiod_graph.png)
 
 ![Cluster Graph](Interpret-Clusters.png)

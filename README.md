@@ -67,3 +67,8 @@ Customers were grouped into 3 clusters:
 ![Elbow Graph](elbow_methiod_graph.png)
 
 ![Cluster Graph](Interpret-Clusters.png)
+
+## 📌Understanding
+
+This project helped us understand how businesses can use clustering to identify different types of customers.  
+By grouping customers based on income and spending behavior, companies can create targeted marketing strategies for better engagement and revenue.
